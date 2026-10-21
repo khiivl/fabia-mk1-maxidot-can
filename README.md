@@ -1,3 +1,5 @@
+<img width="967" height="1280" alt="photo_2026-10-21_04-43-45" src="https://github.com/user-attachments/assets/443f4eb5-a254-45ff-86d5-7f82e52edab0" />
+
 # Text CAN communication between the cluster and the radio, reverse-engineered
 
 Put your own text on the centre display of a **Škoda Fabia Mk1 (6Y) MaxiDot** instrument cluster, from a laptop and

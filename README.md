@@ -1,4 +1,4 @@
-<img width="100" height="132" alt="photo_2026-10-21_04-43-45" src="https://github.com/user-attachments/assets/443f4eb5-a254-45ff-86d5-7f82e52edab0" />
+<img width="200" height="264" alt="photo_2026-10-21_04-43-45" src="https://github.com/user-attachments/assets/443f4eb5-a254-45ff-86d5-7f82e52edab0" />
 
 # Text CAN communication between the cluster and the radio, reverse-engineered
 

@@ -1,7 +1,7 @@
-# maxidot-fis
+# Text CAN communication between the cluster and the radio, reverse-engineered
 
 Put your own text on the centre display of a **Škoda Fabia Mk1 (6Y) MaxiDot** instrument cluster, from a laptop and
-a USB CAN adapter. No radio needed: the program plays the radio.
+a USB CAN adapter. No radio needed: the program assumes the role of the radio.
 
 ```
  HELLO

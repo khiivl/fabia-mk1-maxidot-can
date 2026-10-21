@@ -1,6 +1,6 @@
 <img width="200" height="264" alt="photo_2026-10-21_04-43-45" src="https://github.com/user-attachments/assets/443f4eb5-a254-45ff-86d5-7f82e52edab0" />
 
-# Text CAN communication between the cluster and the radio, reverse-engineered
+# fabia-mk1-maxidot-can
 
 Put your own text on the centre display of a **Škoda Fabia Mk1 (6Y) MaxiDot** instrument cluster, from a laptop and
 a USB CAN adapter. No radio needed: the program assumes the role of the radio.

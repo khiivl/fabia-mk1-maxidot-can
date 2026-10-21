@@ -23,7 +23,7 @@ simply replaying captured frames does not work.
 
 ## Status
 
-Works on the one cluster it was developed on: **Škoda part 6Y0 920 843 D (facelift MaxiDot), on a bench**, with a
+Works on the one cluster it was developed on: **Škoda part 6Y0 920 843 D (facelift MaxiDot), in the car**, with a
 CANable adapter (SLCAN firmware) on Windows 11 and Python 3.12. Other clusters, cars and adapters are untested; the
 protocol document says exactly what was verified and what is guesswork.
 
@@ -31,7 +31,7 @@ The display refreshes about **4 times a second**; that limit is in the cluster (
 
 ## What you need
 
-- The cluster, powered (ignition +, permanent +, ground on the black 8-pin connector) and its **comfort CAN** wired to
+- The cluster, connected to the car OR (untested) powered (ignition +, permanent +, ground on the black 8-pin connector) and its **comfort CAN** wired to
   your adapter: CAN-H and CAN-L on connector T32a pins 9 and 10.
 - A CAN adapter that speaks SLCAN, e.g. a CANable, set to 100 kbit/s in normal mode with its 120 Ω termination **off**.
   (The comfort CAN is a low-speed fault-tolerant bus; each module terminates itself.)
